@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gtk/path">
+    <file preprocess="xml-stripblanks">ptf.glade</file>
+    <file>ptf-fragment.glsl</file>
+    <file>ptf-vertex.glsl</file>
+  </gresource>
+</gresources>
